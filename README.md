@@ -1,4 +1,4 @@
-# Project Name: Raffle-Gamble
+# Raffle-Gamble
 
 # Description 
 This is my first independent project in Python. Even though my ultimate goal is to become a specialist with the NLTK library, this program does not include any usage of NLTK. Instead, this project is designed for the following reasons. 
@@ -12,7 +12,7 @@ The purpose of this program is to help give me a competitive advantage in an upc
 3) What my profitability & ROI would be (if any) if I won. 
 
 
-# CONCLUSION
+# Conclusion
 I discovered that just like its name implies, you can never have => 50% chance to make a profit, you can only have a 50% maximum of breaking even. This is due to the inherent nature of 50/50 raffles, that the hosting party keeps 50% of all ticket sales. Ultimately, I decided to not purchase any tickets at all, and rather my money would be much more wisely spent on a well diversified index fund. 
 
 This project also demonstrates myopic gain/loss aversion fairly well. Many people view a less than a 1% chance of earning more than a thousand percent rate of return much more advantageous than a higher percentage chance of gain with a lower rate of return. Over time, you will only lose money if you continuously participate in 50/50 drawings. 
