@@ -1,4 +1,4 @@
-# Raffle-Gamble
+# Project Name: Raffle-Gamble
 
 # Description 
 This is my first independent project in Python. Even though my ultimate goal is to become a specialist with the NLTK library, this program does not include any usage of NLTK. Instead, this project is designed for the following reasons. 
